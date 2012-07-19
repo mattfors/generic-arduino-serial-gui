@@ -1,4 +1,4 @@
 generic-arduino-serial-gui
 ==========================
 
-A  graphical interface for sending generic comands to an Arduino over a serial port
+Various graphical interfaces for displaying information sent from an Arduino.
